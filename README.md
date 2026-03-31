@@ -55,7 +55,7 @@ STKI3/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/tfidf-ir-streamlit.git
+https://github.com/dekbintang/tfidf-ir-streamlit.git
 cd tfidf-ir-streamlit
 ```
 
@@ -163,8 +163,9 @@ Proyek ini dibuat untuk:
 
 ## 👤 Author
 
-Nama: [Isi Nama Kamu]
-Mata Kuliah: Sistem Temu Kembali Informasi (STKI)
+Nama: [I Kadek Bintang Adi Bimantara]
+Nim: 2405551049
+Mata Kuliah: Sistem Temu Kembali Informasi (D)
 
 ---
 
